@@ -1,0 +1,80 @@
+@import url("https://fonts.googleapis.com/css2?family=Sora:wght@100;200;300;400;500;600;700;800&display=swap");
+.dashed-border2 {
+  width: 30%;
+  background-color: #7ccb77;
+  border: 1px solid #198a11;
+  border-radius: 34px;
+  /*opacity: 80%;*/
+}
+
+
+body {
+  -o-object-fit: cover;
+  object-fit: cover;
+  background-image: url("images/new4.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+   
+}
+
+
+.BoxRec3 {
+  width:fit-content;
+  height: fit-content;
+  margin-right: 3%;
+  background-color: rgba(204, 255, 204, 0.57);
+  padding: 33px;
+  border: 3px solid green;
+  border-radius: 7px;
+  font-family: "Sora", sans-serif;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 20px ;
+  text-align: center;
+  color: darkgreen;
+  
+}
+.BoxRec4 {
+  width: auto;
+  text-align:center;
+  margin-right: 2%;
+  background-color: rgba(229, 255, 204, 0.6);
+  padding: 12px;
+  border: 3px solid green;
+  border-radius: 5px;
+  font-family: "Sora", sans-serif;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 18px;
+  color: rgb(3, 100, 0);
+  
+}
+.nav-link:link {
+  color: darkgreen;
+  text-decoration: none;
+}
+.nav-link:visited {
+  color: rgb(54, 206, 214);
+  text-decoration: none;
+}
+.nav-link:hover {
+  color: rgb(116, 52, 211);
+  text-decoration: none;
+}
+.nav-link:active {
+  color: rgb(68, 229, 95);
+  text-decoration: none;
+}
+.imgCARQ{
+    border-radius: 15px;
+    width: auto;
+    height: auto;
+  }
+
+  button {
+    background-color: initial;
+    border: initial;
+   
+    
+  }
+  

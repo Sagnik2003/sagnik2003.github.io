@@ -1,0 +1,145 @@
+@import url("https://fonts.googleapis.com/css2?family=Sora:wght@100;200;300;400;500;600;700;800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Mr+Dafoe&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=The+Nautigal:wght@700&display=swap');
+.dashed-border {
+  width: 99%;
+  background-color: rgb(77, 0, 128);;
+  border: 3px solid rgb(77, 0, 128);;
+  border-radius: 20px;
+}
+
+/*.dashed-border2 {
+    width: 100%;
+
+    background-color: #b366ff;
+    border: 30px solid #b276ee;
+}
+*/
+
+.BoxRec {
+  background-color: #e6ccff7c;
+  padding: 15px;
+  border: 3px solid rgb(77, 0, 128);
+  border-radius: 7px;
+  font-family: "Sora", sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  color: rgb(94, 44, 169);
+  
+}
+BoxRecText{
+  font-size: 15px;
+}
+aboutText {
+  font-size: 20px;
+}
+
+.fontsora {
+  font-family: "Sora", sans-serif;
+  font-style: normal;
+  font-weight: 800;
+  color: darkgreen;
+}
+.fontN {
+  font-family: 'The Nautigal', cursive;
+  font-style: normal;
+  font-weight: 800;
+  color:black 50%;
+    
+   font-size: 50px;
+  
+}
+.imgBorder {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  border: 5px solid rgb(77, 0, 128);
+  margin-left: 20px;
+  margin-top: 20px;
+  color:  rgb(88, 17, 170);
+}
+.BoxRec2 {
+  width: auto;
+  text-align: center;
+  margin-right: 2%;
+  background: 100px;
+  background-color: #e1ccf7;
+  padding: 15px;
+  border: 3px solidrgb(77, 0, 128);
+  border-radius: 5px;
+  font-family: "Sora", sans-serif;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 20px;
+  color:#24006F;
+  
+}
+.nav-link:link {
+  color: rgb(88, 17, 170);
+  text-decoration: none;
+}
+.nav-link:visited {
+  color: rgb(100, 0, 0);
+  text-decoration: none;
+}
+.nav-link:hover {
+  color: #8080ff;
+  text-decoration: none;
+}
+.nav-link:active {
+  color: #1affb2;
+  text-decoration: none;
+}
+.imgCARQ{
+    border-radius: 10px;
+    width: auto;
+    height: auto;
+  }
+
+  .BoxRec5{
+    width: auto;
+    text-align: center;
+    margin-right: 2%;
+    background: 100px;
+    background-color: #48424edb;
+    padding: 5px;
+    border: 3px solidrgb(77, 0, 128);
+    border-radius: 5px;
+    font-family: "Sora", sans-serif;
+    font-style: normal;
+    font-weight:600;
+    font-size: 15px;
+    color:#bcaae3;
+  }
+
+  .BoxRec6{
+    width: auto;
+    text-align: center;
+    margin-right: 2%;
+    background: 100px;
+    background-color: #48424e37;
+    padding: 5px;
+    border: 3px solidrgb(77, 0, 128);
+    border-color: blueviolet;
+    border-radius: 5px;
+    font-family: "Sora", sans-serif;
+    font-style: normal;
+    font-weight:600;
+    font-size: 15px;
+    color:#221e2c;
+  }
+
+body {
+  
+  
+  object-fit: cover;
+  background-image: url("images/new.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+}
+table{
+  font:normal ;
+}
+ 
+ 
